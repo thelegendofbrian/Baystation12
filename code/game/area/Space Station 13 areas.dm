@@ -2092,6 +2092,33 @@ area/space/atmosalert()
 	icon_state = "away"
 	requires_power = 0
 
+/area/testarea/testarea1/
+	name = "\improper Test Area 1"
+
+/area/testarea/testarea2/
+	name = "\improper Test Area 2"
+
+/area/testarea/testarea3/
+	name = "\improper Test Area 3"
+
+/area/testarea/testarea4/
+	name = "\improper Test Area 4"
+
+/area/testarea/testarea5/
+	name = "\improper Test Area 5"
+
+/area/testarea/testarea6/
+	name = "\improper Test Area 6"
+
+/area/testarea/testarea7/
+	name = "\improper Test Area 7"
+
+/area/testarea/testarea8/
+	name = "\improper Test Area 8"
+
+/area/testarea/testarea9/
+	name = "\improper Test Area 9"
+
 /area/awaymission/beach
 	name = "Beach"
 	icon_state = "null"
