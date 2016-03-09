@@ -2119,6 +2119,9 @@ area/space/atmosalert()
 /area/testarea/testarea9/
 	name = "\improper Test Area 9"
 
+/area/testarea/testatmos/
+	name = "\improper Test Atmos"
+
 /area/awaymission/beach
 	name = "Beach"
 	icon_state = "null"
